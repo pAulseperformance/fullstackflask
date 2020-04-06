@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 flask = "*"
 gunicorn = "*"
+flaskenv = "*"
+flask-env = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
